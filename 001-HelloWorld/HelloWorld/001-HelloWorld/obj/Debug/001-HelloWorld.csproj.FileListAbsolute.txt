@@ -1,0 +1,10 @@
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\bin\Debug\001-HelloWorld.exe.config
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\bin\Debug\001-HelloWorld.exe
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\bin\Debug\001-HelloWorld.pdb
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\obj\Debug\001-HelloWorld.csprojAssemblyReference.cache
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\obj\Debug\_001_HelloWorld.Form1.resources
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\obj\Debug\_001_HelloWorld.Properties.Resources.resources
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\obj\Debug\001-HelloWorld.csproj.GenerateResource.cache
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\obj\Debug\001-HelloWorld.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\obj\Debug\001-HelloWorld.exe
+D:\Projects\CSharp\winform-programming-tips\winform-programming-tips\001-HelloWorld\HelloWorld\001-HelloWorld\obj\Debug\001-HelloWorld.pdb
